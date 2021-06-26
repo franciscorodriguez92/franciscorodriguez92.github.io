@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Rodríguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Francisco Rodríguez</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Automatic Classification of Sexism in Social Networks: An Empirical Study on Twitter Data</title>
+      <link>/publication/ieee_access/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee_access/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Master&#39;s thesis</title>
